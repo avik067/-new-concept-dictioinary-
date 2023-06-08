@@ -1,0 +1,13 @@
+"./"  is used to refer to the current directory.
+
+Example: require("./utils") means you are requiring the file named "utils" in the current directory.
+
+"../"  is used to refer to the parent directory.
+
+Example: require("../utils") means you are requiring the file named "utils" in the parent directory.
+
+The usage of "./"or "../"   depends on the specific file structure and the desired location of the file you are referencing.
+
+Do hands-on and feel free to reach out to us if you are still facing the issue. Mark the discussion as clarified if your issue is resolved.
+
+Happy Learning!!
